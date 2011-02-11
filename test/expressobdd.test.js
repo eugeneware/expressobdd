@@ -15,7 +15,7 @@ module.exports = require('../lib/expressobdd')({
 		'group one point 2': {
 			'it should do w': function() {
 				var z = 5;
-				z.should.eql(6);
+				z.should.eql(5);
 			},
 		},
 	},
