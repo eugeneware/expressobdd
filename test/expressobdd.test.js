@@ -1,5 +1,3 @@
-require('should');
-
 module.exports = require('../lib/expressobdd')({
 	'group one': {
 		'it should do x': function() {
