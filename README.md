@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nharbour/expressobdd.png)](http://travis-ci.org/nharbour/expressobdd)
 # Adds simple BDD to the expresso TDD framework
 
 This project adds a simple extension to the expresso framework which translates a nested "describe"/"it should" structure into a flattened object that expresso will run.
