@@ -1,13 +1,13 @@
 {
 	"name"			: "expressobdd",
-	"version"		: "v1.0.1",
+	"version"		: "v1.0.2",
 	"description"	: "Add basic multilevel describe/it bdd constructs to expresso",
-	"homepage"		: "http://github.com/nharbour/expressobdd",
+	"homepage"		: "http://github.com/eugeneware/expressobdd",
 	"keywords"		: ["expresso", "expressobdd", "bdd", "test", "testing", "tests"],
 	"author"        : "Eugene Ware <eugene@noblesamurai.com>",
 	"maintainers"   : ["Eugene Ware <eugene@noblesamurai.com>"],
 	"licenses"      : ["MIT"],
     "dependencies"  : {"expresso": ">=0.7.2", "should": ">=0.0.4"},
 	"main"			: "./lib/expressobdd",
-	"repository"	: { "type": "git", "url": "http://github.com/nharbour/expressobdd.git" }
+	"repository"	: { "type": "git", "url": "http://github.com/eugeneware/expressobdd.git" }
 }
